@@ -29,3 +29,5 @@ The main results obtained with the data and the answered questions can be found 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The dataset used for analysing the crime in San Francisco can be found in Kaggle, in the following link [here](https://www.kaggle.com/roshansharma/sanfranciso-crime-dataset).
+
+Also, must give credit to the Udacity Data Science Nanodegree and all the resources they have provided me with.
