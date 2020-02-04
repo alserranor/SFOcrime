@@ -26,6 +26,8 @@ There are three notebooks available, each one used to answer each question above
 
 The main results obtained with the data and the answered questions can be found [here](https://medium.com/@albertoserrano/three-insights-from-san-franciscos-crime-to-make-it-a-safer-city-a6e7be5fc4c8).
 
+In the post, it is described how the most common crime in San Francisco is pickpocketing and shoplifting, focused on the most touristic areas of the city. A main conclusion that can be also drawn is that most of the offences remain unresolved.
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The dataset used for analysing the crime in San Francisco can be found in Kaggle, in the following link [here](https://www.kaggle.com/roshansharma/sanfranciso-crime-dataset).
