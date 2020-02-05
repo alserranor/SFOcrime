@@ -20,7 +20,9 @@ For this project, I used crime data from the Police Department of San Francisco 
 
 ## File Descriptions <a name="files"></a>
 
-There are three notebooks available, each one used to answer each question above.
+There is one Jupyter notebook with all the code used to answer to the three questions above: SFOcrime.ipynb.
+
+Also, there is a MIT license explaining the limits of usability of the provided code.
 
 ## Results<a name="results"></a>
 
@@ -33,3 +35,5 @@ In the post, it is described how the most common crime in San Francisco is pickp
 The dataset used for analysing the crime in San Francisco can be found in Kaggle, in the following link [here](https://www.kaggle.com/roshansharma/sanfranciso-crime-dataset).
 
 Also, must give credit to the Udacity Data Science Nanodegree and all the resources they have provided me with.
+
+This code is licensed under a MIT license provided in the license.md file included in the repository.
